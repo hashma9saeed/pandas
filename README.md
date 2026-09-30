@@ -24,9 +24,11 @@ Contains practice questions covering important Pandas concepts such as:
 * Basic data analysis
 
 Tools Used
+
 * Python
 * Pandas
 
  Goal
+ 
 The purpose of this repository is to build practical Pandas skills for my journey toward becoming a Data Analyst.
 
