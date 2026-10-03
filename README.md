@@ -2,7 +2,7 @@
 
 This repository contains my Pandas learning and practice exercises as part of my journey toward becoming a Data Analyst.
 
- Contents
+ Contents:
 1. Pandas Practice
 
 `pandas_practice.py`
@@ -23,12 +23,12 @@ Contains practice questions covering important Pandas concepts such as:
 * Data cleaning and manipulation
 * Basic data analysis
 
-Tools Used
+Tools Used:
 
 * Python
 * Pandas
 
- Goal
+ Goal:
  
 The purpose of this repository is to build practical Pandas skills for my journey toward becoming a Data Analyst.
 
