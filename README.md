@@ -1,11 +1,15 @@
 # Pandas
 
-This repository contains my Pandas learning and practice exercises as part of my journey toward becoming a Data Analyst.
+This repository contains Pandas learning, practice exercises and mini project as part of my journey towards becoming a Data Analyst.
 
  Contents:
 1. Pandas Practice
 
 `pandas_practice.py`
+
+2. Mini project
+
+'women_education_employment_pandas'
 
 Contains practice questions covering important Pandas concepts such as:
 
@@ -17,7 +21,6 @@ Contains practice questions covering important Pandas concepts such as:
 * Adding, modifying, and deleting columns
 * Sorting data
 * Handling missing values
-* Applying functions
 * Grouping and aggregating data
 * Merging and joining DataFrames
 * Data cleaning and manipulation
@@ -27,6 +30,7 @@ Tools Used:
 
 * Python
 * Pandas
+  
 
  Goal:
  
