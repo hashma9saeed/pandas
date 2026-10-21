@@ -1,0 +1,52 @@
+
+Employee_ID,Employee_Name,Department,Gender,Age,Salary,Joining_Date,City,Performance_Rating,Experience_Years
+E001, Ali Khan ,IT,Male,24,55000,2023-01-15,Lahore,4,2
+E002,Sara Ahmed,HR,Female,27,48000,15/02/2022,Karachi,5,4
+E003,Hassan Raza,Finance,Male,29,65000,2021-06-10,Islamabad,3,5
+E004,Ayesha Malik,IT,female,25,60000,2023-08-20,Lahore,4,3
+E005,Usman Ali,Marketing,Male,31,52000,2020-11-05,Karachi,3,7
+E006,Sara Ahmed,HR,Female,27,48000,15/02/2022,Karachi,5,4
+E007,Fatima Noor,Finance,Female,,70000,2022-04-12,Islamabad,4,5
+E008,Bilal Ahmed,IT,Male,28,,2021-09-18,Lahore,5,6
+E009,Zain Abbas,Marketing,Male,twenty-six,45000,2024-01-10,Karachi,3,1
+E010,Maryam Shah,HR,Female,26,50000,2022-12-01,Islamabad,4,3
+E011,Hamza Iqbal,it,Male,30,72000,2020-07-22,Lahore,5,6
+E012,Noor Fatima,Finance,Female,24,58000,2023-03-14,Karachi,4,2
+E013,Ahmed Raza,Marketing,Male,33,61000,2019-05-09,Islamabad,2,8
+E014,Zara Malik,HR,Female,28,49000,2021-10-17,Lahore,4,5
+E015,Omar Farooq,IT,Male,35,85000,2018-02-11,Karachi,5,10
+E016,Hira Aslam,Finance,Female,26,62000,2022-08-25,Islamabad,excellent,4
+E017,Saad Khan,Marketing,Male,29,54000,2020-06-30,Lahore,3,6
+E018,Laiba Noor,HR,Female,23,46000,2024-02-01,Karachi,4,1
+E019,Mahnoor Ali,Finance,Female,32,78000,2019-09-12,Islamabad,5,8
+E020,Rehan Shah,IT,Male,27,68000,2021-01-19,Lahore,4,5
+E021,Anaya Khan,Marketing,Female,25,51000,2022-05-23,Karachi,3,3
+E022,Sameer Iqbal,IT,Male,34,90000,2017-11-16,Islamabad,5,11
+E023,Areeba Raza,HR,Female,24,47000,2023-07-08,Lahore,4,2
+E024,Farhan Ali,Finance,Male,31,73000,2020-03-21,Karachi,3,7
+E025,Mehak Noor,Marketing,Female,28,56000,2021-12-09,Islamabad,4,5
+E026,Arham Malik,IT,Male,22,40000,2024-04-15,Lahore,3,0
+E027,Iqra Ahmed,HR,Female,30,53000,2019-08-27,Karachi,5,7
+E028,Daniyal Shah,Finance,Male,36,82000,2017-06-13,Islamabad,4,12
+E029,Eman Fatima,Marketing,Female,26,52000,2022-10-06,Lahore,3,4
+E030,Shahzaib Khan,IT,Male,150,75000,2020-01-29,Karachi,4,8
+E031,Kinza Ali,HR,Female,27,50000,2021-04-18,Islamabad,4,5
+E032,Rafay Ahmed,Finance,Male,29,68000,2022-02-14,Lahore,5,4
+E033,Anum Raza,Marketing,Female,25,-45000,2023-09-11,Karachi,3,2
+E034,Haroon Malik,IT,Male,32,80000,2018-12-05,Islamabad,5,9
+E035,Minahil Noor,HR,Female,24,46000,2024-01-22,Lahore,4,1
+E036,Sameer Iqbal,IT,Male,34,90000,2017-11-16,Islamabad,5,11
+E037,Aliya Shah,Finance,Female,28,64000,2021-07-19,Karachi,4,5
+E038,Huzaifa Khan,Marketing,Male,27,55000,2022-06-08,Lahore,3,4
+E039,Sana Ahmed,HR,Female,31,51000,2020-09-14,Islamabad,4,7
+E040,Abdullah Raza,IT,Male,26,67000,2023-05-26,Karachi,5,3
+E041,Amna Malik,Finance,Female,29,70000,31/02/2022,Lahore,4,6
+E042,Shayan Ali,Marketing,Male,33,62000,2019-04-17,Karachi,2,9
+E043,Mishal Noor,HR,Female,22,44000,2024-03-10,Lahore,4,0
+E044,Faizan Ahmed,IT,Male,28,72000,2021-08-16,Islamabad,6,5
+E045,Dua Khan,Finance,Female,26,61000,2022-11-20,Karachi,4,4
+E046,Rayyan Shah,Marketing,Male,30,58000,2020-02-28,Lahore,3,8
+E047,Anaya Khan,Marketing,Female,25,51000,2022-05-23,Karachi,3,3
+E048,Mishal Noor,HR,Female,22,44000,2024-03-10,Lahore,4,0
+E049,Saad Ahmed,IT,Male,27,70000,2022-07-12,Karachi,4,-2
+E050, Zara Malik ,HR,Female,28,49000,2021-10-17,Lahore,4,5
